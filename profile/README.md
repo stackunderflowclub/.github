@@ -2,4 +2,4 @@
 
 Hello! Stack Underflow Club at Carlmont High School is dedicated to creating a community of Computer Science programmers passionate and focused on creating useful and cool AI and ML applications! We welcome techies of all levels to join and grow!
 
-Co-Presidents: Akhil, Alex, Leonard
+Co-Presidents: Akhil (@akpi816218), Alex (@FriedLongJohns), Leonard (@ManiacUrgency)
